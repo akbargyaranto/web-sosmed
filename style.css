@@ -12,7 +12,7 @@
     margin: 0 auto;
     background: red;
     height: 100vh;
-    background-image: url("https://i.ibb.co/nbnzQLh/pinterestdownloader-com-1685780901-564461.gif");
+    background-image: url("bg.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -29,7 +29,8 @@
   .profile>img {
     width: 150px;
     height: 150px;
-    
+    border: 3px solid #fff;
+    border-radius: 100%;
   }
   
   .profile>p {
