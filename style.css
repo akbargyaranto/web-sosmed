@@ -25,6 +25,10 @@
     justify-content: center;
     padding: 20px;
   }
+
+  .audio {
+    padding-top:10px;
+  }
   
   .profile>img {
     width: 150px;
