@@ -12,7 +12,7 @@
     margin: 0 auto;
     background: black;
     height: 100vh;
-    background-image: url("bg1.jpg");
+    background-image: url("bg2.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -37,16 +37,18 @@
   .h1 {
     font-size: 2em;
     letter-spacing: 2px;
-    color: #fff;
+    color: #222;
     text-transform: capitalize;
     text-align: center;
+    
     
   }
 
   .title {
     font-size: 1em;
-    color:white;
+    color:#222;
     text-align:center;
+
   }
 
  
