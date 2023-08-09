@@ -87,6 +87,7 @@
   
   .link>a:hover {
     background: #FFDAE9;
+    /* background: 	#ffc0cb; */
   }
   
   .footer {
@@ -105,3 +106,5 @@
     width: 250px;
     height:50px;
   }
+
+ 
