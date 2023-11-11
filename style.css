@@ -13,14 +13,6 @@
     background: white;
     height: 100vh;
     background-image: url("src/gif/bg1.gif");
-    /* background: linear-gradient(to right, #f7a399, #9ad6e5); */
-    /* background: linear-gradient(to right, #e74c3c, #3498db, #2ecc71); */
-    /* background: linear-gradient(to right, #9b59b6, #8e44ad); */
-    /* background: linear-gradient(to right, #eccc68, #ff9f43); */
-    /* background: linear-gradient(to right, #78e08f, #ffb3a7); */
-    /* background: linear-gradient(to right, #2c3e50, #ecf0f1); */
-
-
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
@@ -67,8 +59,7 @@
   .link {
     display: flex;
     justify-content: center;
-    flex-direction: column;
-   
+    flex-direction: column; 
   }
   
   .link>a {
@@ -92,10 +83,12 @@
   
   .footer {
     text-align: center;
+    margin-top: auto;
+    padding-top: 73px;
   }
   
   .footer>i {
-    color:#fff;
+    color: black;
     font-size: 20px;
   }
 
