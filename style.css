@@ -84,11 +84,11 @@
   .footer {
     text-align: center;
     margin-top: auto;
-    padding-top: 2.5em;
+    padding-top: 3em;
   }
   
   .footer>i {
-    color: black;
+    color: aqua;
     font-size: 20px;
     
   }
